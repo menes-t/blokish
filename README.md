@@ -3,6 +3,8 @@
 
 #Blokish
 
+Benan Bardak
+
 Open-source Android implementation of the popular board game Blokus. With very smooth Drag & Drop user interface.
 
 #### Live on :
