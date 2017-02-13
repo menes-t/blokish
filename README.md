@@ -2,10 +2,11 @@
 
 #Blokish
 
+
+Benan Bardak
 M Enes Turgut
 M Furkan Şenyurt
 Ugur Can Guleviz
-
 
 Open-source Android implementation of the popular board game Blokus. With very smooth Drag & Drop user interface.
 
