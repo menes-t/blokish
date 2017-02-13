@@ -2,6 +2,7 @@ M Enes TURGUT
 ![blokish](http://blokish.scoutant.org/blokish_nexus_6)
 
 #Blokish
+Ugur Can Guleviz
 
 Open-source Android implementation of the popular board game Blokus. With very smooth Drag & Drop user interface.
 
